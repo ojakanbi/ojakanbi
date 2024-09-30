@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Oyindamola J Akanbi (OJ)</h1>
 <h3 align="center">A 3rd year IST Student and an Aspiring Software Engineer.</h3>
 
-- 🔭 I’m currently working on ** Bool Startup, YHL Startup, Personal Website**
+- 🔭 I’m currently working on **Leetcode**
 - 🌱 I’m currently learning **Scala**
 - 💬 Ask me about **React, JavaScript**
 - 📫 How to reach me **oakanbi13@gmail.com**
