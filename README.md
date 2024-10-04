@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Oyindamola J Akanbi (OJ)</h1>
-<h3 align="center">A 3rd year IST Student and an Aspiring Software Engineer.</h3>
+<h3 align="center">A 4th year IST Student and an Aspiring Software Engineer.</h3>
 
 - 🔭 I’m currently working on **Leetcode**
 - 🌱 I’m currently learning **Scala**
